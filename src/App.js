@@ -14,7 +14,16 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by gloria</small>
+          <small>
+            Coded by{" "}
+            <a
+              href="https://velvety-cocada-0047ed.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              gloria
+            </a>
+          </small>
         </footer>
       </div>
     </div>
