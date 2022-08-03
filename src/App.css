@@ -1,5 +1,18 @@
 /* https://palettes.shecodes.io/palettes/1113#palette */
 
+body {
+  background: #ffebd364;
+}
+
+h1 {
+  color: #264e70;
+  margin: 50px 0 30px 0;
+}
+
+form {
+  margin: 30px 0 80px 0;
+}
+
 .App-header {
   margin: 30px 0;
 }

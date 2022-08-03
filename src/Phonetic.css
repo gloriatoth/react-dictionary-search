@@ -1,0 +1,10 @@
+.Phonetic {
+  height: 60px;
+}
+
+.Phonetic .PhoneticText {
+  padding: 5px;
+  background-color: #ffb4ac70;
+  color: #333;
+  line-height: 2;
+}

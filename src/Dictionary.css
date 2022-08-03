@@ -1,0 +1,17 @@
+.Dictionary section {
+  padding: 15px 45px;
+  border-radius: 6px;
+  margin: 20px 0 50px 0;
+}
+
+.Dictionary input {
+  width: 60%;
+  padding: 6px 4px;
+  color: #333;
+  border: 1px solid #ebebeb;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.03);
+}
+
+.Dictionary input:focus-visible {
+  outline: none;
+}
