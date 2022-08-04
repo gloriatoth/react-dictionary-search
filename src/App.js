@@ -22,6 +22,14 @@ export default function App() {
               rel="noreferrer"
             >
               gloria
+            </a>{" "}
+            and open-sourced on{" "}
+            <a
+              href="https://github.com/gloriatoth/react-dictionary-search"
+              target="_blank"
+              rel="noreferrer"
+            >
+              GitHub
             </a>
           </small>
         </footer>
